@@ -12,7 +12,7 @@
 
 ## Trabalhando com migrations:
 
-//não utilizar essa aspas
+//não utilizar essas aspas
 
 ### Criar uma migration
 1. sequelize migration:generate --name criar_tabela_alunos
@@ -38,3 +38,5 @@ https://sequelize.org/docs/v6/core-concepts/model-basics/
 `npm install -g sequelize-cli` 
 ### instalar o dotenv
 `npm install dotenv`
+### instalar o jsonwebtoken
+`npm install jsonwebtoken`
